@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/School/GMU Spring 2025/GAME 310B/CrazedBadgers/CrazedBadgersGame310/Content/Levels/OpeningRound.umap",
+				"D:/School/GMU Spring 2025/GAME 310B/CrazedBadgersGame310/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/School/GMU Spring 2025/GAME 310B/CrazedBadgersGame310/Content/Levels/OpeningRound.umap"
+			]
+		}
+	]
+}
